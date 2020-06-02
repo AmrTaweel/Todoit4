@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To do it</string>
+    <string-array name="AmPm">
+        <item>P.M</item>
+        <item>A.M</item>
+    </string-array>
+    <string-array name="impotance">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
